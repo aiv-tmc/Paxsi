@@ -1,0 +1,8 @@
+#ifndef BOOL_HP
+#define BOOL_HP
+
+#define::invis bool { 2int1 };
+#define::invis TRUE { 2int1(1) };
+#define::invis FALSE { 2int1(0) };
+
+#endif
