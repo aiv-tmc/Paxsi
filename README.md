@@ -6,7 +6,7 @@ The **paxsi** project is freely available under the MIT license. You can read it
 
 <!--Status of versions-->
 ## Status of versions
-Newest: [beta 3.6 Pear - v0.3.6.8b](https://github.com/aiv-tmc/Paxsi/tree/paxsi-v0.3.6.8b)
+Newest: [beta 3.7 Mango - v0.3.7.0b](https://github.com/aiv-tmc/Paxsi/tree/beta-3.7-Mango)
 
 Current: [beta 3.6 Pear - v0.3.6.8b](https://github.com/aiv-tmc/Paxsi/tree/paxsi-v0.3.6.8b)
 
