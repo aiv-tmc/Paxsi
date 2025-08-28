@@ -7,10 +7,10 @@
 #include <string.h>
 #include <errno.h>
 
-#define GENERATION "beta 3.6"
-#define NAME "Pear"
-#define VERSION "v0.3.6.8b"
-#define DATE "20250826"
+#define GENERATION "beta 3.7"
+#define NAME "Mango"
+#define VERSION "v0.3.7.0b"
+#define DATE "20250828"
 
 #define MODE_COMPILE 1
 #define MODE_BIN_COMPILE 2
